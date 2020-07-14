@@ -5,7 +5,7 @@ import time                                 # waktu
 
 URL = 'https://www.tokopedia.com/techstudioid/macbook-pro-2020-13-touch-bar-mwp42-mwp72-2-0ghz-4c-i5-16gb-512gb-space-grey'
 
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"}
+headers = {"User-Agent": "#HeaderMu disini"}
 
 
 def cekharga():
